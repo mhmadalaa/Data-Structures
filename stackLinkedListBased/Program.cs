@@ -16,12 +16,17 @@ namespace StackImplementation {
             new_node.data = data; 
             new_node.next = node; 
             node = new_node; 
-            siz++; 
+            siz++;
+        }
+        internal bool Full() {
+            return false; 
         }
         internal T Pop() {
             T deleted_node = node.data; 
+            if (deleted_node != null) {
+                siz--;
+            }
             node = node.next;
-            siz--; 
             return deleted_node;
         }
         internal bool Empty() {
@@ -34,7 +39,12 @@ namespace StackImplementation {
             return siz; 
         }
         internal void Clear() {
-            node = null; 
+            StackNode<T> top = new StackNode<T>();
+            while (node != null) {
+                top = node;
+                top = null;
+                node = node.next;
+            }
             siz = 0; 
         }
         internal void Print() {
@@ -92,8 +102,10 @@ namespace StackImplementation {
 
             if (!str_sk.Empty()) Console.WriteLine(str_sk.Top());
 
-            str_sk.Push("cd .."); 
-            str_sk.Push("cd ecpc/acpc/icpc/winner ");
+            if (!str_sk.Full()){
+                str_sk.Push("cd .."); 
+                str_sk.Push("cd ecpc/acpc/icpc/winner ");
+            }
             str_sk.Print();
         }
     }
