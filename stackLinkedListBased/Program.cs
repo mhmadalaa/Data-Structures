@@ -7,9 +7,10 @@ namespace StackImplementation {
     }
     class Stack<T> {
         StackNode<T> node;
-        int siz = 0; 
+        int siz; 
         public Stack() {
             node = null; 
+            siz = 0; 
         }
         internal void Push(T data) {
             StackNode<T> new_node = new StackNode<T>();
@@ -107,6 +108,7 @@ namespace StackImplementation {
                 str_sk.Push("cd ecpc/acpc/icpc/winner ");
             }
             str_sk.Print();
+            Console.Write(str_sk.Size());
         }
     }
 }
