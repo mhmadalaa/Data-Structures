@@ -1,0 +1,15 @@
+D:\Data Structures\Queue\linkedListBased\bin\Debug\net6.0\linkedListBased.exe
+D:\Data Structures\Queue\linkedListBased\bin\Debug\net6.0\linkedListBased.deps.json
+D:\Data Structures\Queue\linkedListBased\bin\Debug\net6.0\linkedListBased.runtimeconfig.json
+D:\Data Structures\Queue\linkedListBased\bin\Debug\net6.0\linkedListBased.dll
+D:\Data Structures\Queue\linkedListBased\bin\Debug\net6.0\linkedListBased.pdb
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.csproj.AssemblyReference.cache
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.AssemblyInfoInputs.cache
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.AssemblyInfo.cs
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.csproj.CoreCompileInputs.cache
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.dll
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\refint\linkedListBased.dll
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.pdb
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\linkedListBased.genruntimeconfig.cache
+D:\Data Structures\Queue\linkedListBased\obj\Debug\net6.0\ref\linkedListBased.dll
