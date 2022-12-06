@@ -1,0 +1,15 @@
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.csproj.AssemblyReference.cache
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.AssemblyInfoInputs.cache
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.AssemblyInfo.cs
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.csproj.CoreCompileInputs.cache
+D:\Data Structures\Queue\arrayBased\bin\Debug\net6.0\arrayBased.exe
+D:\Data Structures\Queue\arrayBased\bin\Debug\net6.0\arrayBased.deps.json
+D:\Data Structures\Queue\arrayBased\bin\Debug\net6.0\arrayBased.runtimeconfig.json
+D:\Data Structures\Queue\arrayBased\bin\Debug\net6.0\arrayBased.dll
+D:\Data Structures\Queue\arrayBased\bin\Debug\net6.0\arrayBased.pdb
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.dll
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\refint\arrayBased.dll
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.pdb
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\arrayBased.genruntimeconfig.cache
+D:\Data Structures\Queue\arrayBased\obj\Debug\net6.0\ref\arrayBased.dll
