@@ -17,6 +17,8 @@ namespace QueueImplementaion {
         }
         internal void Insert(T data) {
             QueueNode<T> new_node = new QueueNode<T>();
+            new_node.data = data; 
+            new_node.next = null; 
             if (front == null) {
                 front = new_node; 
             } else {
@@ -77,10 +79,12 @@ namespace QueueImplementaion {
             q.Insert(44);
             q.Insert(44);
             q.Insert(1);
-            
             q.Print();
             Console.WriteLine("\n" + q.Top());
             Console.WriteLine(q.Size() + "\n");
+            q.Clear();
+            Console.WriteLine(q.Size() + "\n");
+            q.Print();
 
             // // test char Queue
             Queue<char> qch = new Queue<char>();
@@ -93,6 +97,9 @@ namespace QueueImplementaion {
             qch.Print();
             Console.WriteLine("\n" + qch.Top());
             Console.WriteLine(qch.Size());
+            qch.Clear();
+            Console.WriteLine(qch.Size());
+            qch.Print();
         }
     }
 }
