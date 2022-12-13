@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data Structures\\BinaryTree\\LinkedBased\\LinkedBased.csproj",
-      "projectName": "LinkedBased",
-      "projectPath": "D:\\Data Structures\\BinaryTree\\LinkedBased\\LinkedBased.csproj",
+      "projectUniqueName": "D:\\Data Structures\\BinarySearchTree\\BinarySearchTree.csproj",
+      "projectName": "BinarySearchTree",
+      "projectPath": "D:\\Data Structures\\BinarySearchTree\\BinarySearchTree.csproj",
       "packagesPath": "C:\\Users\\Lord_Boge\\.nuget\\packages\\",
-      "outputPath": "D:\\Data Structures\\BinaryTree\\LinkedBased\\obj\\",
+      "outputPath": "D:\\Data Structures\\BinarySearchTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lord_Boge\\AppData\\Roaming\\NuGet\\NuGet.Config",
