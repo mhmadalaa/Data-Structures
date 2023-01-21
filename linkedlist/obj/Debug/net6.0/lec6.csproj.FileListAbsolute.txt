@@ -1,0 +1,15 @@
+D:\Data Structures\lec_code\lec6\bin\Debug\net6.0\lec6.exe
+D:\Data Structures\lec_code\lec6\bin\Debug\net6.0\lec6.deps.json
+D:\Data Structures\lec_code\lec6\bin\Debug\net6.0\lec6.runtimeconfig.json
+D:\Data Structures\lec_code\lec6\bin\Debug\net6.0\lec6.dll
+D:\Data Structures\lec_code\lec6\bin\Debug\net6.0\lec6.pdb
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.csproj.AssemblyReference.cache
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.AssemblyInfoInputs.cache
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.AssemblyInfo.cs
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.csproj.CoreCompileInputs.cache
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.dll
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\refint\lec6.dll
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.pdb
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\lec6.genruntimeconfig.cache
+D:\Data Structures\lec_code\lec6\obj\Debug\net6.0\ref\lec6.dll

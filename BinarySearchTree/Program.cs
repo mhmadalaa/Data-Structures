@@ -80,6 +80,11 @@ namespace BinaryTreeImplementaion {
         }
         internal void Insert(T entry) {
             InsertIter(entry); 
+
+            // TreeNode<T> node = new TreeNode<T>();
+            // node.entry = entry; 
+            // node.right = null; node.left = null;
+            // InsertTreeRec(node, entry); 
         }
         internal bool Find(T entry) {
             bool found = false; 
