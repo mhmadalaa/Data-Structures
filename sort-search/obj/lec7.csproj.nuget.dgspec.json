@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data Structures\\lec_code\\lec7\\lec7.csproj": {}
+    "D:\\Data Structures\\sort-search\\lec7.csproj": {}
   },
   "projects": {
-    "D:\\Data Structures\\lec_code\\lec7\\lec7.csproj": {
+    "D:\\Data Structures\\sort-search\\lec7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data Structures\\lec_code\\lec7\\lec7.csproj",
+        "projectUniqueName": "D:\\Data Structures\\sort-search\\lec7.csproj",
         "projectName": "lec7",
-        "projectPath": "D:\\Data Structures\\lec_code\\lec7\\lec7.csproj",
+        "projectPath": "D:\\Data Structures\\sort-search\\lec7.csproj",
         "packagesPath": "C:\\Users\\Lord_Boge\\.nuget\\packages\\",
-        "outputPath": "D:\\Data Structures\\lec_code\\lec7\\obj\\",
+        "outputPath": "D:\\Data Structures\\sort-search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lord_Boge\\AppData\\Roaming\\NuGet\\NuGet.Config",

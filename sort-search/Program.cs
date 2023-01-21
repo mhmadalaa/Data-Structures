@@ -45,7 +45,23 @@ namespace Sorting_Searching {
         }
 
         // shell sort
-        
+        public int[] shellSort(int[] arr) {
+            int n = arr.Length; 
+            int key, j;
+            for (int interval = n / 2; interval > 0; interval /= 2) {
+                for (int i = interval; i < n; ++i) {
+                    key = arr[i]; 
+                    j = i - interval;
+                    while (j >= 0 && arr[j] > key) {
+                        arr[j + interval] = arr[j];
+                        j -= interval;
+                    }
+                    arr[j + interval] = key; 
+                }
+            }
+
+            return arr;
+        }
     }
     public class Search {
         internal int linearSearch(int[] arr, int val) {
@@ -87,6 +103,12 @@ namespace Sorting_Searching {
 
             int[] arr = new int[] {32, 23, 11, 2}; 
             // hint: array in C# passed by reference by default 
+
+            foreach (var it in arr) Console.Write($"{it} "); 
+            Console.WriteLine();
+            int[] shellArr = sort.shellSort(arr); 
+            foreach (var it in shellArr) Console.Write($"{it} "); 
+            Console.WriteLine("\n");        
 
             foreach (var it in arr) Console.Write($"{it} "); 
             Console.WriteLine();
